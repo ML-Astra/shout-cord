@@ -10,7 +10,7 @@
   "author": "Morgan 'Zer0Xeon' Lewis",
   "license": "MIT",
   "dependencies": {
-    "@discordjs/opus": "^0.3.2",
+    "@discordjs/opus": "^0.8.0",
     "debug": "^4.1.1",
     "discord.js": "^12.2.0",
     "ffmpeg": "0.0.4",
